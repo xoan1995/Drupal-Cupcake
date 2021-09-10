@@ -1,0 +1,10 @@
+name: Cacheable Embedded Data Test
+type: module
+description: Module containing a cacheable embedded data source.
+package: Testing
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2021-09-05
+version: '9.3.x-dev'
+project: 'drupal'
+datestamp: 1630885631
